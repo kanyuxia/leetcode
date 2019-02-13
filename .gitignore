@@ -1,0 +1,30 @@
+/target/
+/logs/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+bootstrap.properties
+
+### IntelliJ IDEA ###
+.idea
+.idea/
+.idea/*
+*.iws
+*.iml
+*.ipr
+*.log
+*.db
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+banksync/
